@@ -1,2 +1,17 @@
-# RussianSynodalBible
-Aquifer resource repository for RussianSynodalBible, containing resource-level metadata, article-level metadata, and content files.
+# _Russian Synodal Bible_ Aquifer Resource
+
+This repository (`RussianSynodalBible`) contains an Aquifer Bible resource with resource-level metadata and content files in USFM and USX formats.
+
+## License
+
+_Russian Synodal Bible_ © None [Public Domain](None)
+
+This resource is licensed under the [Public Domain CC0](https://creativecommons.org/public-domain/cc0/) license.
+
+## Structure
+
+The repository is organized by language codes, with each language folder containing USFM and USX content files.
+
+## Documentation
+
+For more information about the Aquifer platform, data, and metadata formats, visit the [Aquifer Documentation repository](https://github.com/BibleAquifer/RussianSynodalBible).
