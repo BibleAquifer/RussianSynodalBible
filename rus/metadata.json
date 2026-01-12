@@ -4,7 +4,7 @@
     "resource_type": "Bible",
     "title": "Russian Synodal Bible",
     "aquifer_name": "Russian Synodal Bible",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "collection_title": "Russian Synodal Bible",
     "short_name": "RSB",
     "license_info": {
@@ -33294,6 +33294,468 @@
       "pdf/66.content.pdf": {
         "mimeType": "application/pdf",
         "size": 326066
+      },
+      "alignments/01.alignment.json": {
+        "mimeType": "text/json",
+        "size": 2992064,
+        "scope": {
+          "GEN": []
+        }
+      },
+      "alignments/02.alignment.json": {
+        "mimeType": "text/json",
+        "size": 2531081,
+        "scope": {
+          "EXO": []
+        }
+      },
+      "alignments/03.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1732874,
+        "scope": {
+          "LEV": []
+        }
+      },
+      "alignments/04.alignment.json": {
+        "mimeType": "text/json",
+        "size": 2589630,
+        "scope": {
+          "NUM": []
+        }
+      },
+      "alignments/05.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1906325,
+        "scope": {
+          "DEU": []
+        }
+      },
+      "alignments/06.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1467248,
+        "scope": {
+          "JOS": []
+        }
+      },
+      "alignments/07.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1423179,
+        "scope": {
+          "JDG": []
+        }
+      },
+      "alignments/08.alignment.json": {
+        "mimeType": "text/json",
+        "size": 176508,
+        "scope": {
+          "RUT": []
+        }
+      },
+      "alignments/09.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1871033,
+        "scope": {
+          "1SA": []
+        }
+      },
+      "alignments/10.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1526123,
+        "scope": {
+          "2SA": []
+        }
+      },
+      "alignments/11.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1888124,
+        "scope": {
+          "1KI": []
+        }
+      },
+      "alignments/12.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1785870,
+        "scope": {
+          "2KI": []
+        }
+      },
+      "alignments/13.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1770504,
+        "scope": {
+          "1CH": []
+        }
+      },
+      "alignments/14.alignment.json": {
+        "mimeType": "text/json",
+        "size": 2088032,
+        "scope": {
+          "2CH": []
+        }
+      },
+      "alignments/15.alignment.json": {
+        "mimeType": "text/json",
+        "size": 656067,
+        "scope": {
+          "EZR": []
+        }
+      },
+      "alignments/16.alignment.json": {
+        "mimeType": "text/json",
+        "size": 842151,
+        "scope": {
+          "NEH": []
+        }
+      },
+      "alignments/17.alignment.json": {
+        "mimeType": "text/json",
+        "size": 455795,
+        "scope": {
+          "EST": []
+        }
+      },
+      "alignments/18.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1289981,
+        "scope": {
+          "JOB": []
+        }
+      },
+      "alignments/19.alignment.json": {
+        "mimeType": "text/json",
+        "size": 3212766,
+        "scope": {
+          "PSA": []
+        }
+      },
+      "alignments/20.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1201033,
+        "scope": {
+          "PRO": []
+        }
+      },
+      "alignments/21.alignment.json": {
+        "mimeType": "text/json",
+        "size": 383431,
+        "scope": {
+          "ECC": []
+        }
+      },
+      "alignments/22.alignment.json": {
+        "mimeType": "text/json",
+        "size": 174362,
+        "scope": {
+          "SNG": []
+        }
+      },
+      "alignments/23.alignment.json": {
+        "mimeType": "text/json",
+        "size": 2557056,
+        "scope": {
+          "ISA": []
+        }
+      },
+      "alignments/24.alignment.json": {
+        "mimeType": "text/json",
+        "size": 3011437,
+        "scope": {
+          "JER": []
+        }
+      },
+      "alignments/25.alignment.json": {
+        "mimeType": "text/json",
+        "size": 248057,
+        "scope": {
+          "LAM": []
+        }
+      },
+      "alignments/26.alignment.json": {
+        "mimeType": "text/json",
+        "size": 2681553,
+        "scope": {
+          "EZK": []
+        }
+      },
+      "alignments/27.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1001364,
+        "scope": {
+          "DAN": []
+        }
+      },
+      "alignments/28.alignment.json": {
+        "mimeType": "text/json",
+        "size": 342718,
+        "scope": {
+          "HOS": []
+        }
+      },
+      "alignments/29.alignment.json": {
+        "mimeType": "text/json",
+        "size": 153642,
+        "scope": {
+          "JOL": []
+        }
+      },
+      "alignments/30.alignment.json": {
+        "mimeType": "text/json",
+        "size": 309380,
+        "scope": {
+          "AMO": []
+        }
+      },
+      "alignments/31.alignment.json": {
+        "mimeType": "text/json",
+        "size": 41711,
+        "scope": {
+          "OBA": []
+        }
+      },
+      "alignments/32.alignment.json": {
+        "mimeType": "text/json",
+        "size": 103476,
+        "scope": {
+          "JON": []
+        }
+      },
+      "alignments/33.alignment.json": {
+        "mimeType": "text/json",
+        "size": 216854,
+        "scope": {
+          "MIC": []
+        }
+      },
+      "alignments/34.alignment.json": {
+        "mimeType": "text/json",
+        "size": 90889,
+        "scope": {
+          "NAM": []
+        }
+      },
+      "alignments/35.alignment.json": {
+        "mimeType": "text/json",
+        "size": 106234,
+        "scope": {
+          "HAB": []
+        }
+      },
+      "alignments/36.alignment.json": {
+        "mimeType": "text/json",
+        "size": 116915,
+        "scope": {
+          "ZEP": []
+        }
+      },
+      "alignments/37.alignment.json": {
+        "mimeType": "text/json",
+        "size": 88422,
+        "scope": {
+          "HAG": []
+        }
+      },
+      "alignments/38.alignment.json": {
+        "mimeType": "text/json",
+        "size": 450411,
+        "scope": {
+          "ZEC": []
+        }
+      },
+      "alignments/39.alignment.json": {
+        "mimeType": "text/json",
+        "size": 116286,
+        "scope": {
+          "MAL": []
+        }
+      },
+      "alignments/40.alignment.json": {
+        "mimeType": "text/json",
+        "size": 3324855,
+        "scope": {
+          "MAT": []
+        }
+      },
+      "alignments/41.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1977833,
+        "scope": {
+          "MRK": []
+        }
+      },
+      "alignments/42.alignment.json": {
+        "mimeType": "text/json",
+        "size": 3487079,
+        "scope": {
+          "LUK": []
+        }
+      },
+      "alignments/43.alignment.json": {
+        "mimeType": "text/json",
+        "size": 2804073,
+        "scope": {
+          "JHN": []
+        }
+      },
+      "alignments/44.alignment.json": {
+        "mimeType": "text/json",
+        "size": 3229170,
+        "scope": {
+          "ACT": []
+        }
+      },
+      "alignments/45.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1261439,
+        "scope": {
+          "ROM": []
+        }
+      },
+      "alignments/46.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1255088,
+        "scope": {
+          "1CO": []
+        }
+      },
+      "alignments/47.alignment.json": {
+        "mimeType": "text/json",
+        "size": 794928,
+        "scope": {
+          "2CO": []
+        }
+      },
+      "alignments/48.alignment.json": {
+        "mimeType": "text/json",
+        "size": 403793,
+        "scope": {
+          "GAL": []
+        }
+      },
+      "alignments/49.alignment.json": {
+        "mimeType": "text/json",
+        "size": 434182,
+        "scope": {
+          "EPH": []
+        }
+      },
+      "alignments/50.alignment.json": {
+        "mimeType": "text/json",
+        "size": 295564,
+        "scope": {
+          "PHP": []
+        }
+      },
+      "alignments/51.alignment.json": {
+        "mimeType": "text/json",
+        "size": 284586,
+        "scope": {
+          "COL": []
+        }
+      },
+      "alignments/52.alignment.json": {
+        "mimeType": "text/json",
+        "size": 274943,
+        "scope": {
+          "1TH": []
+        }
+      },
+      "alignments/53.alignment.json": {
+        "mimeType": "text/json",
+        "size": 152395,
+        "scope": {
+          "2TH": []
+        }
+      },
+      "alignments/54.alignment.json": {
+        "mimeType": "text/json",
+        "size": 310710,
+        "scope": {
+          "1TI": []
+        }
+      },
+      "alignments/55.alignment.json": {
+        "mimeType": "text/json",
+        "size": 234681,
+        "scope": {
+          "2TI": []
+        }
+      },
+      "alignments/56.alignment.json": {
+        "mimeType": "text/json",
+        "size": 81964,
+        "scope": {
+          "TIT": []
+        }
+      },
+      "alignments/57.alignment.json": {
+        "mimeType": "text/json",
+        "size": 43683,
+        "scope": {
+          "PHM": []
+        }
+      },
+      "alignments/58.alignment.json": {
+        "mimeType": "text/json",
+        "size": 909220,
+        "scope": {
+          "HEB": []
+        }
+      },
+      "alignments/59.alignment.json": {
+        "mimeType": "text/json",
+        "size": 317870,
+        "scope": {
+          "JAS": []
+        }
+      },
+      "alignments/60.alignment.json": {
+        "mimeType": "text/json",
+        "size": 311774,
+        "scope": {
+          "1PE": []
+        }
+      },
+      "alignments/61.alignment.json": {
+        "mimeType": "text/json",
+        "size": 207582,
+        "scope": {
+          "2PE": []
+        }
+      },
+      "alignments/62.alignment.json": {
+        "mimeType": "text/json",
+        "size": 377185,
+        "scope": {
+          "1JN": []
+        }
+      },
+      "alignments/63.alignment.json": {
+        "mimeType": "text/json",
+        "size": 33845,
+        "scope": {
+          "2JN": []
+        }
+      },
+      "alignments/64.alignment.json": {
+        "mimeType": "text/json",
+        "size": 40346,
+        "scope": {
+          "3JN": []
+        }
+      },
+      "alignments/65.alignment.json": {
+        "mimeType": "text/json",
+        "size": 79461,
+        "scope": {
+          "JUD": []
+        }
+      },
+      "alignments/66.alignment.json": {
+        "mimeType": "text/json",
+        "size": 1685992,
+        "scope": {
+          "REV": []
+        }
       }
     },
     "copyright": {
@@ -33311,5 +33773,18 @@
       ]
     }
   },
-  "article_metadata": {}
+  "article_metadata": {},
+  "alignment_metadata": {
+    "alignment_source": "https://github.com/Clear-Bible/alignments-rus/tree/main/data/alignments/RUSSYN",
+    "alignment_ot_basis": "https://github.com/Clear-Bible/Alignments/tree/main/data/sources/WLCM.tsv",
+    "alignment_nt_basis": "https://github.com/Clear-Bible/Alignments/tree/main/data/sources/SBLGNT.tsv",
+    "licenses": [
+      {
+        "eng": {
+          "name": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+        }
+      }
+    ]
+  }
 }
